@@ -1,0 +1,19 @@
+.nav-div{
+    background-color: #191b19;
+    height:60px;
+}
+.navbar{
+    color: #fff;
+    text-decoration: none;
+    font-size:18px;
+    margin: 10px;
+    font-weight: 600;
+
+}
+.nav{
+    padding-top:15px;
+}
+.navbar:hover{
+    /* color: rgb(152, 152, 152); */
+    color: #ffd600;
+}

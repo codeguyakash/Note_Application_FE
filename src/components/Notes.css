@@ -1,0 +1,28 @@
+.notes-card{
+    border: 2px solid #4a96ff;
+    margin:5px;
+    width:30%;
+    height: 30%;
+    padding:15px;
+    border-radius: 10px;
+    background: #cce1ff;
+    text-align: justify;
+    display: inline-block;
+    color: #282c34;
+
+  }
+  
+  .h-line{
+    border-top: 1px solid #4a96ff;
+  }
+  
+.note-title{
+  color: #282c34;
+  font-size: 20px;
+}
+.note-description{
+  color: #282c34;
+  font-size: 16px;
+  /* justify-content:center; */
+  text-align: justify;
+}
